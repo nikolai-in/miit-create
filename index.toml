@@ -115,6 +115,11 @@ hash = "217b07516517c4c01958387192143943f3e9309a0e935828f9f32af771425d66"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "96e3771cd09bb4a808d1c1fcb5a050efdc2ffb4efe7b584407ed54c46c0388d9"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "41209fe012e1c2a5f6adfff3eec65b9c35f5abc6a4d52617d9d02734a0350855"
 metafile = true
