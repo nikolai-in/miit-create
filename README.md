@@ -1,8 +1,7 @@
 
 # MIIT Create 🛠️
 
-A minecraft modpack for the unofficial mminecraft server of RUT (MIIT) made by students
-
+A minecraft modpack for the unofficial server of RUT (MIIT)
 
 ## Acknowledgements
 
