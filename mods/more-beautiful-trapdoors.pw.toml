@@ -1,0 +1,13 @@
+name = "More Beautiful Trapdoors"
+filename = "MoreTrapdoor-1.20.1-1.0.4-[FABRIC].jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7kxOSaZm/versions/C8R0AxyU/MoreTrapdoor-1.20.1-1.0.4-%5BFABRIC%5D.jar"
+hash-format = "sha1"
+hash = "492149057a01b614e154485128269a510ac51045"
+
+[update]
+[update.modrinth]
+mod-id = "7kxOSaZm"
+version = "C8R0AxyU"

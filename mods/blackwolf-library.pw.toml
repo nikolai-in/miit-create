@@ -1,0 +1,13 @@
+name = "Blackwolf Library"
+filename = "BlackwolfLibrary-1.20.1-1.0.4-[FABRIC].jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mskYGmCA/versions/Fh4Ty5pi/BlackwolfLibrary-1.20.1-1.0.4-%5BFABRIC%5D.jar"
+hash-format = "sha1"
+hash = "98cb4c2b3a3b21b9e35730cc2b47db575ed47ffa"
+
+[update]
+[update.modrinth]
+mod-id = "mskYGmCA"
+version = "Fh4Ty5pi"

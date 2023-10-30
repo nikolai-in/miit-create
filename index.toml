@@ -5,6 +5,11 @@ file = "README.md"
 hash = "5cfb53f50ffff0baae32bf11488c4d8fddebdbb9308d4ec59f084717b377b9da"
 
 [[files]]
+file = "mods/blackwolf-library.pw.toml"
+hash = "abeca3fba0645631585c1ecc03b91a73f3a98fd2cf3e951933724deb802418cf"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "7721e78d990cc15c02f1a03cd6d7652ea995b271a3d19a6ae44829b4c69acbf0"
 metafile = true
@@ -75,6 +80,11 @@ hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
 
 [[files]]
+file = "mods/minegate.pw.toml"
+hash = "884764efa2fe3e486871a745a4fd6c98bca9f78bd9b574c965913e0de211fad7"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "36868c5bce91c29a02aba65827e48273588a5452177dbffa828e45fdcd6e3a0e"
 metafile = true
@@ -87,6 +97,11 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "a92082b5f3ff068fdde6fa01f8273ecc4fbbce9e5cdc702f125ea841231ec3ed"
+metafile = true
+
+[[files]]
+file = "mods/more-beautiful-trapdoors.pw.toml"
+hash = "02336e74529a23b921556d0eb11c04133f61cd26a88df0cac06cbb55cd9d53f4"
 metafile = true
 
 [[files]]

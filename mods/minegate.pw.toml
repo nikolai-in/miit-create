@@ -1,0 +1,13 @@
+name = "MineGate · MoreBlocks"
+filename = "minegate-dev-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MjXrTD1M/versions/YuTFvXx3/minegate-dev-1.0.0.jar"
+hash-format = "sha1"
+hash = "6b8b525f4bd43c93be7f7b267ec936c14fdcf062"
+
+[update]
+[update.modrinth]
+mod-id = "MjXrTD1M"
+version = "YuTFvXx3"
