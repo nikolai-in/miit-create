@@ -1,12 +1,12 @@
 name = "Miit Create"
 author = "Nick"
-version = "0.0.3"
+version = "0.0.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "4f7614f7efa20fdd9e3c7084b5e0799cec051bc449208345e96472948109c678"
+hash = "9157b6b93625a0e46613b32297f3d0734ae6f97cbece53c60a079a7d2098add4"
 
 [versions]
 fabric = "0.14.23"
